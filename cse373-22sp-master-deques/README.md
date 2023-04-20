@@ -1,16 +1,7 @@
-# CSE 373 Projects
+Deque (usually pronounced like “deck”) is an irregular acronym of double-ended queue. They are special queues (or, equally valid, special stacks) that you can add and remove from either its front or its back.
 
-You'll use this Git repository for all coding project assignments in this class.
+In this project, we will compare two implementations of a deque. This project shows demonstration of:
 
-This project is meant to be imported into IntelliJ as a Gradle project.
-
-You are not expected to understand the contents of any Gradle-related files,
-and may safely ignore them---if you encounter issues with project setup, please
-seek help from the course staff.
-
-See [the projects page on the course website](https://cs.uw.edu/373/projects/)
-for more instructions.
-
-(In theory, it should be possible to complete our projects using the Gradle
-support in any other IDE or by using Gradle without an IDE, but the course
-staff may not be able to provide technical support if you do so.)
+Understing the difference between an ADT and a data structure.
+Understing data structure invariants and their value in testing programs.
+Practicing debugging code using tests.
